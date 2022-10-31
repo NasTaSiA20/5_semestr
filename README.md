@@ -1,3 +1,4 @@
 # ответы на вопросы по SQL собеседованию-https://docs.google.com/document/d/10_L016jOvUvabhSPyJ0shTN-6EXEMO-6l8KL-Eh-Y2Q/edit?usp=drivesdk
 # степик ответы https://docs.google.com/document/d/1DL00-pH8igZnaXxgvnooqwu5z5lfRpMkWsd8mBwvNlM/edit?usp=drivesdk
 # теория из степика https://docs.google.com/document/d/1elCwCUDXloD2f-dlChOGRxz7uFQCyItC-FmeIOcsuh4/edit?usp=drivesdk
+#  SQL скрипты https://docs.google.com/document/d/1878uNc0EhX8agK63SXNZ5iNx-26Ctod0CZb6q8UMeyg/edit?usp=drivesdk
