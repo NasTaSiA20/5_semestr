@@ -4,3 +4,10 @@
 Excel/Python/Matplotlib
 # Гугл таблица https://docs.google.com/spreadsheets/d/1kTF8X4ftdsK8Rj4fZt85OmFAcNGZdlcQxUL5iByoRn0/edit?usp=sharing
 https://replit.com/@NasTaSiA20/Chisliennyie-mietody
+решить систему уравнений:
+1) метод крамера
+   1.1 посчитать в экселе
+   1.2 посчитать в реплите
+   1.3 мат плот либ построить график
+Цель:
+Совпаление значений во всех трех случаях 
