@@ -4,7 +4,7 @@
 Excel/Python/Matplotlib
 
 гугл таблица https://docs.google.com/spreadsheets/d/1kTF8X4ftdsK8Rj4fZt85OmFAcNGZdlcQxUL5iByoRn0/edit?usp=sharing
-https://replit.com/@NasTaSiA20/Chisliennyie-mietody
+код в реплите https://replit.com/@NasTaSiA20/Chisliennyie-mietody
 
 решить систему уравнений:
 1) метод крамера
