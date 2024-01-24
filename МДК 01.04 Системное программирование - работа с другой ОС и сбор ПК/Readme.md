@@ -11,7 +11,8 @@ commit - сохранение
 4. добавить файлы
 5. сохранить
 6. указать репозиторий куда нужно файлы отправить
-7. отправить файлы 
+7. отправить файлы
+   
 ![image](https://github.com/NasTaSiA20/6_semestr/assets/113089694/70c65d55-d405-4bcb-8187-1e2bb8322cbc)
 ![image](https://github.com/NasTaSiA20/6_semestr/assets/113089694/69f65430-c921-47ad-8241-3d371f3e428e)
 
